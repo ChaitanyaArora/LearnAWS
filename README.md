@@ -3,7 +3,7 @@
 **Project Details**
 The hands-on projects featured on the LearnAWS website serve as practical demonstrations of AWS services in action. These projects are designed to provide valuable learning experiences for those interested in gaining proficiency with AWS. By exploring these projects, you can gain insights into various aspects of AWS development, including web hosting, serverless computing, API management, and NoSQL database usage.
 
-**Technologies Used:- **
+**Technologies Used:-**
 The projects have been built using a combination of AWS services to demonstrate practical applications. The key AWS services employed in these projects include:
 
 **AWS Amplify:** Amplify is used for web hosting and continuous deployment, enabling efficient development and deployment of web applications.
